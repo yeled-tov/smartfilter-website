@@ -1,4 +1,4 @@
-# SmartFilter
+# Filterphone
 
 **SmartFilter** – פתרונות סינון והגנה דיגיטלית
 
